@@ -49,3 +49,4 @@ This course is conformed of four main parts:
 To clone this repo, type this command on your console.
 >       git clone https://github.com/UP210300/UP210300_CPP.git
 
+Hi, i'm testing git
